@@ -1,7 +1,3 @@
-Here’s an example of a `README.md` file for the **Plant Disease Detector API** project. This will explain the purpose of the API, how to set it up, and provide examples on how to use it.
-
----
-
 # Plant Disease Detector API
 
 The Plant Disease Detector API allows users to upload an image of a plant leaf and provides a diagnosis of any disease, along with a recommended solution. This API utilizes Google Generative AI to analyze images and generate insights based on the uploaded plant leaf image.
