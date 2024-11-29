@@ -8,8 +8,8 @@ The Plant Disease Detector API allows users to upload an image of a plant leaf a
 - Supports any plant type by specifying the plant name.
 
 ## Requirements
-- [Node.js](https://nodejs.org/) (version 14 or later)
-- [Google Generative AI](https://cloud.google.com/generative-ai) API key
+- [Node.js](https://nodejs.org/)
+- [Google Generative AI](https://ai.google.dev/) API key
 - An internet connection for accessing Google’s Generative AI model
 
 ## Installation
